@@ -1,6 +1,6 @@
 ## **Aprende TODO PYTHON en 16 días.**
 
-Este curso de [Python de Udemy](https://www.udemy.com/course/python-total/), fue diseñado para que aprendas y practiques, en un calendario de 16 días de estudio:
+Realice este curso de [Python de Udemy](https://www.udemy.com/course/python-total/), el cual fue diseñado para que aprendas y practicar, en un calendario de 16 días de estudio:
 
 - Cada video tiene una introducción teórica y una demostración práctica
 - Cada lección viene con 3 ejercicios de código para que practiques lo aprendido
