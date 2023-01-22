@@ -15,6 +15,7 @@ Realice este curso de [Python de Udemy](https://www.udemy.com/course/python-tota
         Dia 2 - Calculador de Comisiones
         Dia 3 - Analizador de Texto
         Dia 4 - Juego 'Adivina el número'
+        Dia 5 - Juego 'El ahorcado'
 
 - **Desde el día 7 al día 9:** Fase avanzada. Ingresa a la Programación Orientada a Objetos (OOP), para crear programas ágiles, sólidos, económicos, repetibles, y fáciles de mantener.
 
