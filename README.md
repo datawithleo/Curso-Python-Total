@@ -22,6 +22,7 @@ Realice este curso de [Python de Udemy](https://www.udemy.com/course/python-tota
 
         Dia 7 - Cuenta Bancaria
         Dia 8 - Consola de Turnos
+        Dia 9 - Buscador de Numeros de Serie
 
 - **Desde el día 10 en adelante:** Evoluciona a Experto. Ya eres un programador avanzado de python, y ha llegado la hora de conocer sus principales aplicaciones en el mundo real. Profundizarás en áreas de desarrollo como:
 
