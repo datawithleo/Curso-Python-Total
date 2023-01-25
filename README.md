@@ -17,10 +17,11 @@ Realice este curso de [Python de Udemy](https://www.udemy.com/course/python-tota
         Dia 4 - Juego 'Adivina el número'
         Dia 5 - Juego 'El ahorcado'
         Dia 6 - Recetario
-        Dia 7 - Cuenta Bancaria
-        Dia 8 - Consola de Turnos
 
 - **Desde el día 7 al día 9:** Fase avanzada. Ingresa a la Programación Orientada a Objetos (OOP), para crear programas ágiles, sólidos, económicos, repetibles, y fáciles de mantener.
+
+        Dia 7 - Cuenta Bancaria
+        Dia 8 - Consola de Turnos
 
 - **Desde el día 10 en adelante:** Evoluciona a Experto. Ya eres un programador avanzado de python, y ha llegado la hora de conocer sus principales aplicaciones en el mundo real. Profundizarás en áreas de desarrollo como:
 
